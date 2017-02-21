@@ -1,4 +1,4 @@
-![img](http://i1.piimg.com/1949/9764630c9a5f109e.png)
+![img](http://cggcd.img48.wal8.com/img48/566543_20170220131520/148768657372.png)
 
 # 写在前面
 
@@ -26,11 +26,13 @@
 
 - 还有很多功能(对不起大家，我刚看C#三天，写不出更多功能)
 
-# 软件截图以及使用技巧
+# 软件使用说明
 
-- 放着以后再写
+以下为详细功能介绍
 
-![img](http://www.jobdeer.com/img/rd.png)
+![img](http://cggcd.img48.wal8.com/img48/566543_20170220131520/148768609573.png)
+
+其实我们还可以将本软件添加到开机启动 [点击此处](http://www.3lian.com/edu/2015/06-22/223333.html) ，按照这上面的方法添加本程序到开启自启动，开机自动登录，完美方案，想用就用~
 
 # 关于作者
 
@@ -40,7 +42,7 @@
 
 - QQ:354471059
 
-- github [https://github.com/szh9604](https://github.com/szh9604)
+- github: [https://github.com/szh9604](https://github.com/szh9604)
 
 欢迎骚扰，让我们一同进步~
 
