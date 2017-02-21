@@ -1,4 +1,4 @@
-![img](welcome.png)
+![img](http://i1.piimg.com/1949/9764630c9a5f109e.png)
 
 # 写在前面
 
