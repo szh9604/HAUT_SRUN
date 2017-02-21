@@ -31,6 +31,6 @@
 
 - QQ:354471059
 
-- github [https://github.com/szh9604](https://github.com/szh9604)(里面是空白的，太懒惰，啥都没干，不过以后会更新)
+- GitHub:[https://github.com/szh9604](https://github.com/szh9604)
 
 # 有关情怀
