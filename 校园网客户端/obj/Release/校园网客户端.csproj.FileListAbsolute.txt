@@ -1,0 +1,9 @@
+C:\Users\Super_hao\documents\visual studio 2017\Projects\校园网客户端\校园网客户端\bin\Release\校园网客户端.exe.config
+C:\Users\Super_hao\documents\visual studio 2017\Projects\校园网客户端\校园网客户端\bin\Release\校园网客户端.exe
+C:\Users\Super_hao\documents\visual studio 2017\Projects\校园网客户端\校园网客户端\bin\Release\校园网客户端.pdb
+C:\Users\Super_hao\documents\visual studio 2017\Projects\校园网客户端\校园网客户端\obj\Release\校园网客户端.client.resources
+C:\Users\Super_hao\documents\visual studio 2017\Projects\校园网客户端\校园网客户端\obj\Release\校园网客户端.Properties.Resources.resources
+C:\Users\Super_hao\documents\visual studio 2017\Projects\校园网客户端\校园网客户端\obj\Release\校园网客户端.csproj.GenerateResource.Cache
+C:\Users\Super_hao\documents\visual studio 2017\Projects\校园网客户端\校园网客户端\obj\Release\校园网客户端.exe
+C:\Users\Super_hao\documents\visual studio 2017\Projects\校园网客户端\校园网客户端\obj\Release\校园网客户端.pdb
+C:\Users\Super_hao\documents\visual studio 2017\Projects\校园网客户端\校园网客户端\obj\Release\校园网客户端.csprojResolveAssemblyReference.cache
